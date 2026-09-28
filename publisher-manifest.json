@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "63f43e8a0fc5665389152b54",
+  "owner": "ctukukdef",
+  "repo": "page-766170356f0d09b1284e28f2",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "766170356f0d09b1284e28f2",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "13161d87ee7664d840c41e1a12909f238bbe6a735e46494a05e00a5529cfa149",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供稳定VPN加速服务，支持套餐选择、客户端下载及流媒体解锁。",
+          "AI_DESCRIPTION": "44F网络提供稳定VPN加速服务，支持套餐选择、客户端下载及流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  line-height: 1.6;\n  color: #333;\n  background: #f9f6f0;\n  margin: 0;\n  padding: 0;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\nheader {\n  background: linear-gradient(to right, #2d5a27, #4a7c3d);\n  color: white;\n  padding: 1rem 0;\n  text-align: center;\n}\nh1 {\n  font-size: 2.8rem;\n  margin: 0;\n  color: #f9f6f0;\n}\n.grid {\n  display: grid;\n  grid-template-columns: 2fr 1fr;\n  gap: 2rem;\n}\n@media (max-width: 768px) {\n  .grid {\n    grid-template-columns: 1fr;\n  }\n}\n.column {\n  background: white;\n  padding: 2rem;\n  border-radius: 8px;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n}\n.plans-section {\n  background: white;\n  padding: 2rem;\n  border-radius: 8px;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n  margin-top: 2rem;\n}\nfaq-details {\n  margin-bottom: 1rem;\n}\nfaq-details summary {\n  font-weight: bold;\n  color: #2d5a27;\n  cursor: pointer;\n  padding: 1rem;\n  background: #f9f6f0;\n  border-radius: 6px;\n}\nfaq-details + div {\n  padding: 1rem;\n  background: #f0ede6;\n  border-radius: 6px;\n  margin-top: 0.5rem;\n}\n</style>\n\n\n<header>\n<h1>44F网络</h1>\n</header>\n<main>\n<div class=\"grid\">\n  <div class=\"column\">\n    <h2>品牌简介</h2>\n    <p>44F网络是一款专注于提供高速稳定VPN加速服务的品牌。通过先进的客户端和优质节点，让您的网络连接更加顺畅。</p>\n    <h2>使用场景</h2>\n    <p>适用于个人用户、多设备家庭、游戏玩家和企业团队。我们提供从基础到高级的加速解决方案。</p>\n    <h2>操作说明</h2>\n    <ol>\n      <li>访问官网选择适合的套餐</li>\n      <li>下载客户端进行安装</li>\n      <li>登录账号后连接到所需节点</li>\n      <li>享受极速网络加速和流媒体解锁</li>\n    </ol>\n  </div>\n  <div class=\"column\">\n    <h2>套餐对比</h2>\n    {{PLANS_HTML}}\n  </div>\n</div>\n\n<h2>常见问题</h2>\n\n<details>\n<summary>什么是 44F网络？</summary>\n<p>44F网络提供专业的VPN加速器和客户端下载服务，帮助用户获得更快、更稳定的互联网连接。</p>\n</details>\n\n<details>\n<summary>如何选择合适的套餐？</summary>\n<p>根据您的使用需求，如设备数量和所需功能，选择基础版、旗舰版或团队版。每个套餐都有不同的流量支持和加速特性。</p>\n</details>\n\n<details>\n<summary>客户端如何使用？</summary>\n<p>下载客户端后，按照安装向导进行设置，然后连接到优质节点即可获得加速服务。</p>\n</details>\n\n<details>\n<summary>支持哪些设备？</summary>\n<p>支持多台设备同时在线，具体取决于所选套餐的配置。</p>\n</details>\n\n<details>\n<summary>如何解锁流媒体内容？</summary>\n<p>通过连接我们的节点，客户端可实现基础流媒体解锁服务。</p>\n</details>\n\n{{CLIENTS_HTML}}\n\n</main>\n\n",
+          "hash": "8e7393828ea89f30e54662b02fe3b286c8981020413ddc8d67171b11f0af7f54",
+          "seo": {
+            "title": "44F网络 - 高速VPN加速器 | 客户端下载与网络加速",
+            "keywords": "44F网络,VPN加速器,梯子网络,机场订阅,客户端下载,网络加速,VPN节点",
+            "description": "44F网络提供稳定VPN加速服务，支持套餐选择、客户端下载及流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zzjiakaikeji.cn",
+    "host": "b.zzjiakaikeji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "zzjiakaikeji.cn",
+      "url": "https://zzjiakaikeji.cn/",
+      "label": "Xlinkworld",
+      "apex": "zzjiakaikeji.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-a7c321c3c9a76c38bb513fe6"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "52805f71a60384bba13ae677de5e37a8738c7fa3c8a6ca6164909b245d504961",
+    "sitemap.xml": "168fbb9624b285aa8f77b6bee515f199b26c218f5799d49a53392118b5b2bcad",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "27aa32e025553a5157a45a438be556707e766dc6fc19ebedc6b3da5cdeaca207",
+    "robots.txt": "1d868ccfdbe6433ed856daa664a480f280a1260fd0addc49498f426356ca9dfb",
+    "383a7140b08f98e9f5690f89d599f1d4.txt": "cd0a4368474f7ac9c977e217419076b2786a826e225c88e2c0fcd6c906c781c6"
+  },
+  "revision": "df5caf23be5b19a0e98f143a84ed0352cc7e30fbcb8c207a10851b44100b9531"
+}
